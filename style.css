@@ -1,0 +1,13 @@
+.cell {
+    border: 1px solid #cccccc;
+    background: white;
+}
+
+.canvas {
+    background: #f2f2f2;
+    display: flex;
+    flex-wrap: wrap;
+    width: 960px;
+    height: 960px;
+    padding: 2em;
+}
